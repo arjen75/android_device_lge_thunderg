@@ -77,3 +77,5 @@ dalvik.vm.heapsize=32m
 dalvik.vm.execution-mode=int:jit
 windowsmgr.max_events_per_sec=260
 ro.telephony.call_ring.multiple=false
+
+debug.sf.hw = 0
